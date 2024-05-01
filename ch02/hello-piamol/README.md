@@ -1,7 +1,7 @@
 # Images
 
 ## hello-piamol - Info
-This Image is built using a simple '[Containerfile](hello-piamol/Containerfile/)' - that uses the `ubi9-base` Image as its foundation. The `ubi9-base` Image is based off the [Red Hat Universal Base Image 9 (UBI)](https://catalog.redhat.com/software/containers/search?p=1&product_listings_names=Red%20Hat%20Universal%20Base%20Image%209).
+This Image is built using a simple '[Containerfile](Containerfile)' - that uses the `ubi9-base` Image as its foundation. The `ubi9-base` Image is based off the [Red Hat Universal Base Image 9 (UBI)](https://catalog.redhat.com/software/containers/search?p=1&product_listings_names=Red%20Hat%20Universal%20Base%20Image%209).
 
 Description : This Image demonstrates
 
