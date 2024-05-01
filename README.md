@@ -2,7 +2,7 @@
 Podman in a Month of Lunches (of course!)
 
 ### Images
-The [images](images/README.md) folder contains a set of 'Containerfiles' to build a set of 'Base' Images (using [podman](https://podman.io/)).
+The `images` folder contains a set of ('Containerfiles') to build a set of 'Base' Images (using [podman](https://podman.io/)).
 
 Podman can be installed by following the [Installation Instructions](https://podman.io/docs/installation).
 
